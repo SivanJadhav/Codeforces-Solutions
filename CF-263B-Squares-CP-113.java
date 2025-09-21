@@ -17,7 +17,7 @@ public class Main {
 		}
 
 		int n = in.nextInt();
-		int k = in.nextInt();
+		int k = in.nextInt(); // lmao
 
 		ArrayList<Integer> as = new ArrayList<>();
 
