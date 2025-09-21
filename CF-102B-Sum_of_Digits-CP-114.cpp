@@ -3,6 +3,7 @@ using namespace std;
 
 int main() {
   string number = "";
+
   cin >> number;
 
   int spells = 0;
