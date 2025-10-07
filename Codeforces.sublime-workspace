@@ -20,6 +20,14 @@
 		"selected_items":
 		[
 			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
 				"install pa",
 				"Package Control: Install Package"
 			],
@@ -164,12 +172,17 @@
 	},
 	"expanded_folders":
 	[
-		"/home/sivan/Developer/Competitions/Codeforces"
+		"/home/sivan/Developer/Competitions/Codeforces",
+		"/home/sivan/Developer/Competitions/Codeforces/Contests",
+		"/home/sivan/Developer/Competitions/Codeforces/Contests/CF-Round_01054-Div3"
 	],
 	"file_history":
 	[
-		"/home/sivan/Developer/Competitions/Codeforces/output.out",
+		"/home/sivan/Developer/Competitions/Codeforces/Contests/CF-Round_01054-Div3/README.md",
+		"/home/sivan/Developer/Competitions/Codeforces/Contests/CF-Round_01054-Div3/B-Unconventional_Pairs.cpp",
+		"/home/sivan/Developer/Competitions/Codeforces/Contests/CF-Round_01054-Div3/A-Be_Positive.cpp",
 		"/home/sivan/Developer/Competitions/Codeforces/input.in",
+		"/home/sivan/Developer/Competitions/Codeforces/output.out",
 		"/home/sivan/Developer/Competitions/Codeforces/CF-1472B-Fair_Division.cpp",
 		"/home/sivan/.config/sublime-text/Packages/User/CP-C++.sublime-build",
 		"/home/sivan/.config/sublime-text/Packages/User/CP.sublime-build",
@@ -328,7 +341,7 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 325.0,
 	"status_bar_visible": true,
 	"template_settings":
