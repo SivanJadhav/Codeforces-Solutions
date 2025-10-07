@@ -16,8 +16,6 @@
 - Mistakes / time sinks: pretty much no mistakes.
 - Editorial takeaway: My solution was optimal, yay!
 
----
-
 ### B - Unconventional Pairs
 - Approach: take the input, sort it (to minimize difference between two consecutive pairs) and find the maximum one via iteration.
 - What went well: went well.
