@@ -1,0 +1,337 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"listpack",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"origami resto",
+				"Origami: Restore Saved Layout"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"terminus",
+				"Terminus: List Shells"
+			],
+			[
+				"layout",
+				"Origami: Restore Saved Layout"
+			],
+			[
+				"save layou",
+				"Origami: Save Current Layout"
+			],
+			[
+				"layout remo",
+				"Origami: Remove Saved Layout"
+			],
+			[
+				"remove layout",
+				"Origami: Remove Saved Layout"
+			],
+			[
+				"save lay",
+				"Origami: Save Current Layout"
+			],
+			[
+				"t",
+				"Terminus: List Shells"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"origami key",
+				"Preferences: Origami Key Bindings"
+			],
+			[
+				"origami save la",
+				"Origami: Save Current Layout"
+			],
+			[
+				"origami pane belo",
+				"Origami: Create Pane Below"
+			],
+			[
+				"origami right",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"color sc",
+				"UI: Select Color Scheme"
+			],
+			[
+				"package inst",
+				"Package Control: Install Package"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings"
+			],
+			[
+				"settin",
+				"Preferences: Settings"
+			],
+			[
+				"color sch",
+				"UI: Select Color Scheme"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ui",
+				"UI: Select Color Scheme"
+			],
+			[
+				"color sche",
+				"UI: Select Color Scheme"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/sivan/Developer/Competitions/Codeforces"
+	],
+	"file_history":
+	[
+		"/home/sivan/Developer/Competitions/Codeforces/output.out",
+		"/home/sivan/Developer/Competitions/Codeforces/input.in",
+		"/home/sivan/Developer/Competitions/Codeforces/CF-1472B-Fair_Division.cpp",
+		"/home/sivan/.config/sublime-text/Packages/User/CP-C++.sublime-build",
+		"/home/sivan/.config/sublime-text/Packages/User/CP.sublime-build",
+		"/home/sivan/.config/sublime-text/Packages/User/Default (Linux).sublime-keymap",
+		"/home/sivan/.config/sublime-text/Packages/Origami/Default (Linux).sublime-keymap",
+		"/home/sivan/.config/sublime-text/Packages/User/competitive-programming-c++.sublime-snippet",
+		"/home/sivan/Downloads/lmao.cpp",
+		"/home/sivan/Developer/Projects/advin-c/.gitignore",
+		"/home/sivan/Developer/Projects/advin-c/advin-c.sublime-project",
+		"/home/sivan/Developer/Competitions/USACO/USACO.sublime-project",
+		"/home/sivan/Developer/Competitions/Codeforces/Codeforces.sublime-project",
+		"/home/sivan/.config/sublime-text/Packages/User/Side Bar.sublime-settings",
+		"/home/sivan/.config/sublime-text/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/home/sivan/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+		"/home/sivan/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+		"/home/sivan/.config/sublime-text/Packages/User/ActualVim.sublime-settings",
+		"/home/sivan/Downloads/lmao.c"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 72.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 286.0,
+		"history":
+		[
+		]
+	},
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "Packages/User/CP-C++.sublime-build",
+	"project": "Codeforces.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Developer/Competitions/Codeforces/Codeforces.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"_vintageous_reset_during_init": true,
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 325.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
